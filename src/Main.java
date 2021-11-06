@@ -4,5 +4,5 @@ public class Main {
         int cost_of_a_mile = 20;
         int miles = ticket_price / cost_of_a_mile;
         System.out.println(miles);
-        }
+    }
 }
